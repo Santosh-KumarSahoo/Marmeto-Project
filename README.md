@@ -63,5 +63,3 @@ Please use the GitHub issues page or submit pull requests:
 git checkout -b feature/yourFeature
 git commit -m "Add your feature"
 git push origin feature/yourFeature
-```
-````

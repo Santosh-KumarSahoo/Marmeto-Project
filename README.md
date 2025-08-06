@@ -40,12 +40,10 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/marmeto.git
-   cd marmeto
+   git clone https://github.com/Santosh-KumarSahoo/Marmeto-Project.git
+   cd Marmeto-Project
    ```
 
-````
-````
 
 2. Open `index.html` in your default browser:
 
@@ -55,11 +53,6 @@ To run this project locally:
    ```
 
 *No build tools required—it’s a pure static site.*
-
-## 📸 Preview
-
-![Project Screenshot](assets/screenshot.png)
-*Include a screenshot of your app here for visual context.*
 
 ## 🤝 Contributing
 
